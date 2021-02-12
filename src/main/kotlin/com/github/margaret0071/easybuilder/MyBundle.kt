@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.margaret0071.easybuilder
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls
